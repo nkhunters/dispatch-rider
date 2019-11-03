@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485759730503",
+    "firebase_url": "https://dispatch-10a7b.firebaseio.com",
+    "project_id": "dispatch-10a7b",
+    "storage_bucket": "dispatch-10a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485759730503:android:13382738d31280e204c262",
+        "android_client_info": {
+          "package_name": "com.blinklabs.dispatchrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485759730503-b4sf6nrn6ucmelpfcvuv6q7ofmghmkn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCZTPC62wM8Zv8LhTeW0W7f0bGVFN7Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485759730503-b4sf6nrn6ucmelpfcvuv6q7ofmghmkn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

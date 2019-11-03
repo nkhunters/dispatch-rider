@@ -1,0 +1,9 @@
+{
+  "expoServerNgrokUrl": "https://r6-zp4.anonymous.dispatch-rider.exp.direct",
+  "packagerNgrokUrl": "https://packager.r6-zp4.anonymous.dispatch-rider.exp.direct",
+  "ngrokPid": 4560,
+  "devToolsPort": 19002,
+  "expoServerPort": 19003,
+  "packagerPort": 19001,
+  "packagerPid": 5280
+}
